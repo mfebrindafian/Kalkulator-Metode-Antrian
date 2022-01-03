@@ -10,7 +10,7 @@ Implementasi Pemrograman untuk menyelesaikan masalah Metode Antrian
 
 <h2>Setup</h2>
 <ol>
-   <li>Unduh file Queueing Theory Calculator <a href="https://github.com/mfebrindafian/Queueing-Theory-Calculator/archive/refs/heads/main.zip"> disini </a> </li>
+   <li>Unduh file Kalkulator Metode Antrian <a href="https://github.com/mfebrindafian/Queueing-Theory-Calculator/archive/refs/heads/main.zip"> disini </a> </li>
    <li>Simpan Folder pada htdocs</li>
    <li>Jalankan XAMPP </li>
     <li>Akses http://localhost/KalkulatorMetodeAntrian/ </li>
