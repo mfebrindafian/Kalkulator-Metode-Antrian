@@ -1,3 +1,4 @@
+![lampiran foto github QTCalculator](https://user-images.githubusercontent.com/83019762/147903932-cf5fa55c-0d43-4967-a29d-1a126bc598cd.png)
 
 # Queueing Theory Calculator
 Implementasi Pemrograman untuk menyelesaikan masalah Metode Antrian
